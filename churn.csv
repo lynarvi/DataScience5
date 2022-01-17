@@ -1,0 +1,9 @@
+Gender,Age,Geography,Tenure,Churn
+Male,39,Hyderabad,4,1
+Female,40,Pune,6,0
+Male,24,Hyderabad,3,1
+Female,37,Hyderabad,1,0
+Female,34,Pune,5,0
+Male,44,Pune,2,0
+Female,50,Hyderabad,8,0
+Male,22,Pune,4,1
